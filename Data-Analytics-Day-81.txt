@@ -1,0 +1,74 @@
+ Business Intelligence & Dashboarding (Power BI + Tableau)
+
+🔹 Lesson 1: Advanced Power BI – DAX & Automation
+===================================================
+Summary:
+Data Analysis Expressions (DAX) bring intelligence into your Power BI models.
+Key functions: CALCULATE(), FILTER(), SUMX(), RELATED()
+Create custom KPIs and measures
+Automate data refreshes with Power BI Service
+
+Example:
+In a sales dashboard, create a KPI to show “YoY Growth = (CurrentYearSales – PreviousYearSales) / PreviousYearSales” using DAX.
+
+Video: Master DAX in Power BI (25 mins)
+
+
+🔹 Lesson 2: Tableau Storytelling & Calculated Fields
+=======================================================
+Summary:
+Tableau helps you narrate insights visually.
+Build calculated fields for dynamic metrics
+Use Story Points to walk users through insights
+Combine text, visuals, and interactivity for storytelling
+
+Example:
+A Tableau story for a retail company: “From declining profits → to identifying low-margin products → to recommending supplier renegotiation.”
+
+Video: Tableau Storytelling Techniques (18 mins)
+
+
+🔹 Lesson 3: Data Blending & Cross-Source Insights
+=====================================================
+Summary:
+Often, data is scattered across sources. Tableau and Power BI both support data blending.
+Combine Excel, SQL Server, and Google Sheets in one view
+Blend by shared dimensions (e.g., Region, Product ID)
+Handle mismatched granularity using relationships
+
+Example:
+Blend Google Ads spend (Excel) with sales revenue (SQL) to show “Return on Ad Spend (ROAS)” by campaign.
+
+Video: Data Blending in Tableau & Power BI (20 mins)
+
+
+🔹 Lesson 4: Interactive Dashboards for Decision Makers
+==========================================================
+Summary:
+An effective dashboard provides clarity, not clutter.
+Use filters, slicers, bookmarks for user-driven exploration
+Apply color psychology (green = growth, red = decline)
+Use KPIs, trends, and drill-downs
+
+Example:
+Build a Sales Performance Dashboard with filters for region, product category, and salesperson — all interactive and auto-updating.
+
+Video: Create Interactive Dashboards in Power BI (22 mins)
+
+
+🔹 Lesson 5: Case Study – Company-Wide Performance Dashboard
+==============================================================
+Summary:
+Goal: A company wants one unified dashboard for CEO-level insights.
+Steps:
+--------
+Extract sales, HR, and finance data
+Transform and model it in Power BI
+Add DAX KPIs (Revenue Growth, Attrition, Net Margin)
+Design executive-level visuals with drill-through pages
+
+Outcome:
+The CEO can see quarterly trends, top performers, and profitability in one place.
+
+Video: End-to-End Power BI Case Study (30 mins)
+
